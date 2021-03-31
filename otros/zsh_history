@@ -1,0 +1,21 @@
+upgrade
+cd .config/
+ls
+cd rofi/
+ls
+...
+cd ..
+ls
+cd ..
+cd cache
+cd .cache
+ls
+ls -lA
+cd i3lock/
+ls
+cd current/
+ls
+exit
+arandr
+xrandr -s 1920x1080
+exit
